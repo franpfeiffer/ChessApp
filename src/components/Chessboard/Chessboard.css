@@ -4,7 +4,7 @@
     grid-template-rows: repeat(8, 100px);
     width: 800px;
     height: 800px;
-    background-color: blue;
+    background-color: #0000ff;
 }
 
 .modal {
@@ -28,7 +28,7 @@
     justify-content: space-around;
     height: 300px;
     width: 800px;
-    background-color: rgba(127, 127, 127, 0.8);
+    background-color: #262626;
 }
 
 .modal > .modal-body > img {
@@ -38,7 +38,7 @@
 }
 
 .modal > .modal-body > img:hover {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: #ffffff4d;
     cursor: pointer;
 }
 
